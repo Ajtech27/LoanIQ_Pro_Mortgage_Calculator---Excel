@@ -13,3 +13,10 @@ A professional loan and mortgage analysis tool covering everything a borrower or
 - Full 360-month amortization with principal, interest, equity, and cumulative interest
 
 **Tools:** Excel · PMT · NPER · RATE · IFERROR · ColorScale Conditional Formatting
+
+---
+![Dashboard](https://github.com/Ajtech27/LoanIQ_Pro_Mortgage_Calculator---Excel/blob/main/Dashboard.png)
+
+---
+
+![Calculator](https://github.com/Ajtech27/LoanIQ_Pro_Mortgage_Calculator---Excel/blob/main/calculator.png)
